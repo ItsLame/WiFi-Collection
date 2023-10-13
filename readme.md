@@ -37,6 +37,7 @@
 >1. Press 'Scan Now' in 'Wireless Diagnostic > Scan', select all, copy.
 >2. Paste to protocol > list > day_time.txt
 >3. Save and repeat
+
 >**GPS Tracks**:
 >1. Walk to destination
 >2. Press the pin icon
