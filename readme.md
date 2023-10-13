@@ -28,7 +28,7 @@
   - drop duplicate rows
 - `clean_data.py`: to clean up wifi data (inserts protocol data, and (wip) gps data)
   - inserts cleaned up protocol list into column
-  - (wip) inserts cleaned up gps data into column
+  - inserts cleaned up gps data into column
   - drop duplicate rows
 
 ## Recommended Sequence
